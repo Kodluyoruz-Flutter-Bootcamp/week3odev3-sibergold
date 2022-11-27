@@ -1,15 +1,15 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+5. HAFTA
 
 # Homework 
-```Ödev```
+ÖĞRENCİ NOT SİSTEMİ
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+ÖĞRENCİ NOTLARININ GİRİLDİĞİ BİR SİSTEM UYGULAMASI
 
 
 ## Author
+ÖMER MERİÇ
 
-```Ödevi yapan```
